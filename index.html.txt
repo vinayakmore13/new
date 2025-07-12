@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login page</title>
+</head>
+<body align="center">
+    <form action="task3.html" method="post">
+        <fieldset style="width: 30%;">
+        <legend><h1 >Log in</h1></legend>  
+        <label for="">userName</label><input type="text" name="" id="" placeholder="userName"><br><br>
+        <label for="">Password</label><input type="password" name="" id="" placeholder="Password"><br>
+        <input type="checkbox" name="" id="password"><label for="password">show password</label><br><br>
+        <button type="login">login</button>
+        <button>cancel</button>
+        <p>Forgot password?  <a href="">click here</a></p>
+
+
+
+    </fieldset>
+       
+    </form>
+
+    
+</body>
+</html>
